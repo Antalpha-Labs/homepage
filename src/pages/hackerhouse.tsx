@@ -37,6 +37,15 @@ type House = {
 
 const HOUSES: House[] = [
   {
+    link: "/hackerhouse/xian-math",
+    theme: "#ZKP × Math",
+    name: "Formal Methods in Practice",
+    startDate: "6th Jul, 2026",
+    endDate: "12th Jul, 2026",
+    location: "@Xi'an",
+    coverUrl: "/images/hackerhouse/xian-math-poster.svg",
+  },
+  {
     link: "/hackerhouse/suzhou-zkvm",
     theme: "",
     name: "",
